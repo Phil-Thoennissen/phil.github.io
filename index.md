@@ -2,7 +2,7 @@
 
 Which chapter are you interested in?
 
-###[Operation Engineering](https://some-link1.com)
+###[Operation Engineering](https://phil-thoennissen.github.io/phil.github.io/oe.html)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
