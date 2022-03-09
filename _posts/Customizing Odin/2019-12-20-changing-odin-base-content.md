@@ -42,6 +42,8 @@ The more help section shows up under your list of categories on your homepage, a
 The social links section defines which social links show in the footer. By default Odin supports Instagram, Twitter, Facebook, LinkedIn, Email, and Github. Simply add the relevant social item to the right section, or add `#` if you don't want that social item to show in the footer.
 
 ----
+[Current Chapter Assignment](https://github.com/cloudeteer/cdt-2.0/wiki/03.4_Chapter_Chapter_Lead_and_Tribe_Assignments#chapter-assignments)
+
 
 After making any changes to the above, run `jekyll serve` to see the changes locally. If you're satisfied with your changes, run `jekyll build` and then push your changes to your repo.
 
