@@ -25,5 +25,5 @@ jobs:
       - uses: ncipollo/release-action@v1
         with:
           artifacts: "zipperino.zip"
-          bodyFile: "readme.md"
+          bodyFile: "README.md"
           token: ${{ secrets.MY_SECRET }}
