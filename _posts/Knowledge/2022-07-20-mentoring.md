@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mentoring Sessions"
-date: 2022-07-20 08:44:38 -0400
+date: 2022-07-18 08:44:38 -0400
 category: knowledge
 short-description: This post contains various infos and records about our mentoring session
 ---
