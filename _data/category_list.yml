@@ -1,0 +1,21 @@
+#This file defines all the categories you are using
+
+
+organization:
+  name: Organization
+  description: See all information about our Organization
+runbooks:
+  name: Runbooks
+  description: Find all Runbooks here
+utility-zone:
+  name: Tools
+  description: Different tools for making your life even better
+portfolio:
+  name: Portfolio
+  description: Our Services Portfolio
+customers:
+  name: Customers
+  description: Our Customers and projects
+events:
+  name: Events
+  description: Our team and community events

@@ -1,0 +1,35 @@
+// Codes
+ code {
+    background: #f6f8fa; // for testing
+    color: inherit;
+    display: block;
+    line-height: 1.45; // from orig
+    overflow-x: auto; // from orig
+    padding: 16px; // from orig
+    width: 100%;
+ }
+
+// .code {
+//   border-radius: 6px; // for testing
+//   color: #0b9b17;
+//   position: relative;
+
+//   &::before {
+//     color: #0704a8; // for testing
+//     content: attr(data-lang);
+//     font-size: 85%;  // from orig
+//     position: absolute;
+//     right: $layout-spacing;
+//     top: $unit-h;
+//   }
+
+//   code {
+//     background: #414141; // for testing
+//     color: inherit;
+//     display: block;
+//     line-height: 1.45; // from orig
+//     overflow-x: auto; // from orig
+//     padding: 16px; // from orig
+//     width: 100%;
+//   }
+// }
