@@ -4,7 +4,6 @@ title: "Infos around our mentoring sessions"
 date: 2022-07-20 08:44:38 -0400
 category: knowledge
 category-name: "Knowledge Exchange"
-author: phil
 short-description: This post contains various infos and records about our mentoring session
 ---
 

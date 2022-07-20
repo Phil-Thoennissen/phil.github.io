@@ -20,5 +20,5 @@ events:
   name: Events
   description: Our team and community events
 knowledge:
-  name: Knowledge Exchange
-  description: Records/Videos
+  name: KnowledgeExchange
+  description: Records and Files
